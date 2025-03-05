@@ -1,0 +1,5 @@
+outs:
+- md5: 3cdeafeb0c508aa29f470c7e81fefb57
+  size: 60
+  hash: md5
+  path: data.txt
